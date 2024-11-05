@@ -15,11 +15,3 @@ This directory contains the R scripts required for reproducing the figures prese
 This folder includes the generated plots in both `.png` and `.pdf` formats, allowing users to view and utilize the visual representations directly as presented in the manuscript.
 
 ---
-
-<span style="color:red">Important Notice on Reproducibility</span>
-
-
-
-
-
-
