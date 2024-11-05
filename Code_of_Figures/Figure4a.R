@@ -173,6 +173,6 @@ text(candidate_set[index_of_stable_1sd], stab_values[index_of_stable_1sd],
      "stable.1sd", pos = 1, col = "red", cex = 1.5) # Add text for stable.1sd
 
 S_stable_1sd <- S_list[[index_of_stable_1sd]] # Extract the selection matrix for the stable.1sd lambda value
-col_means <- colMeans(S_stable_1sd) # Compute the inclusion probabilities for each predictor
-S_stable_1sd_filtered <- S_stable_1sd[, col_means > 0.5] # Filter the predictors with inclusion probability > 0.5
-round(colMeans(S_stable_1sd_filtered), 3) # Print the inclusion probabilities of the filtered predictors
+col_means <- colMeans(S_stable_1sd) # Compute the selection frequencies for each predictor
+S_stable_1sd_filtered <- S_stable_1sd[, col_means > 0.5] # Filter the predictors with selection frequency > 0.5
+round(colMeans(S_stable_1sd_filtered), 3) # Print the selection frequencies of the filtered predictors
