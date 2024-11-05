@@ -9,7 +9,7 @@ This repository accompanies the paper, "*On the Selection Stability of Stability
 ## File Structure and Descriptions
 
 ### 1. **Code_of_Figures**
-This directory contains the R scripts required for reproducing the figures presented in the paper. Each R file is named according to its corresponding figure in the manuscript for easy reference. For example, `Figure2a.R` contains the code associated with sub-figure (a) of Figure 2.
+This directory contains the R scripts required for reproducing the figures presented in the paper. Each R file is named according to its corresponding figure in the manuscript for easy reference. For example, `Figure2a.R` contains the code associated with sub-figure (a) of Figure 2. The files `Figure4a.R` and `Figure5a.R` display variables with selection frequencies greater than 0.5 for the riboflavin and rat microarray datasets, respectively, along with their selection frequencies as presented in the paper.
 
 ### 2. **Figures**
 This folder includes the generated plots in both `.png` and `.pdf` formats, allowing users to view and utilize the visual representations directly as presented in the manuscript.
