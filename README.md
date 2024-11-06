@@ -2,7 +2,7 @@
 
 This repository accompanies the paper, "*On the Selection Stability of Stability Selection and Its Applications*", providing the essential R scripts to reproduce the analyses presented therein.
 
-**Important Notice on Reproducibility**: The results are reproducible when the code is executed on Posit Cloud, as this platform minimises potential system discrepancies. Please note that execution on other systems may lead to variability, particularly in the installation of dependent packages. Certain packages have been observed to fail installation on specific systems, and using Posit Cloud can mitigate such issues.
+**Important Notice on Reproducibility**: The results are reproducible when the code is executed on Posit Cloud, as this platform minimises potential system discrepancies. Please note that execution on other systems may lead to variability, particularly in the installation of dependent packages. Certain packages have been observed to fail installation on specific systems, and using Posit Cloud can mitigate such issues.[Project on Posit Cloud](https://posit.cloud/content/9178855)
 
 ---
 
