@@ -1,4 +1,4 @@
-# This script generates Figure 5b in the paper 
+# This script generates Figure 6b in the paper 
 # The script applies stable stability selection to the
 # rat  microarray data using LASSO
 # To reproduce the figure reported in the paper, 
