@@ -1,4 +1,4 @@
-# This script generates Figure 4a in the paper and,
+# This script generates Figure 5a in the paper and,
 # prints the genes with inclusion probability greater than 0.5 which
 # are reported through the manuscript.
 # The script applies stable stability selection to the
