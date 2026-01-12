@@ -1,4 +1,4 @@
-# This script generates Figure 4b in the paper 
+# This script generates Figure 5b in the paper 
 # The script applies stable stability selection to the
 # Riboflavin data using LASSO
 # To reproduce the figure reported in the paper, 
