@@ -1,4 +1,4 @@
-# This script generates Figure 3b in the paper.
+# This script generates Figure 4b in the paper.
 # The script generates synthetic data with 500 predictors, 50 observations, and 
 #a correlation coefficient of 0.5 followed by stable stability selection 
 # To reproduce the figure reported in the paper, you need to set the number of
