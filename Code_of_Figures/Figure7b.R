@@ -1,4 +1,4 @@
-# This script generates Figure 6b in the paper.
+# This script generates Figure 7b in the paper.
 # The script generates synthetic data with 500 predictors, 
 # 50 observations for training, and 25 observations for testing. 
 # correlation coefficient is set to 0.5.
