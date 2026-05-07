@@ -370,4 +370,4 @@ candidate_set[index_of_lambda_stable] # Display the stable lambda value
 m <- colMeans(S_list[[index_of_lambda_stable]]) # Compute selection frequencies for stable lambda
 m[m > 0.6] # Display selected variables with selection probability > 0.6
 
-m[which.max(m[m <= 0.6])] # Display the maximum selection frequency among variables with selection frequency <= 0.6
+sort(m, decreasing = TRUE)[1:5] # Display the maximum selection frequency among variables with selection frequency <= 0.6
